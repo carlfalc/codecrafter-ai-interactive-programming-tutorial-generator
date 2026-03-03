@@ -1,0 +1,2 @@
+# codecrafter-ai-interactive-programming-tutorial-generator
+CodeCrafter AI automatically generates personalized, interactive programming tutorials based on real-world project requirements. Unlike static courses, it creates step-by-step coding challenges that adapt to the learner's skill level and preferred tech stack. With the global shift to remote work and the coding bootcamp boom, there's massive demand 
