@@ -1,0 +1,16 @@
+{
+  "name": "codecrafter-ai-interactive-programming-tutorial-generator",
+  "version": "0.1.0",
+  "description": "CodeCrafter AI automatically generates personalized, interactive programming tutorials based on real-world project requirements. Unlike static courses, it creates step-by-step coding challenges that a",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "ai",
+    "saas",
+    "the-firm"
+  ],
+  "author": "The Firm — AI Venture Studio",
+  "license": "MIT"
+}
